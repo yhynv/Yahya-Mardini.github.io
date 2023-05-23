@@ -23,7 +23,7 @@ I'm a normal person creating a website to show people what I'm interesting in.\\
 
 ** Why I use Gnu Emacs
 
-It's been around since ever, and the people who change the world of computing was and still using it\\
+Emacs has been around forever, and the people who change the world of computing was and still using it\\
 and I'm using it to look cool.
 
 ** Images
