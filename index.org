@@ -1,0 +1,42 @@
+
+#+title: First web page for me
+#+description: This is my first web page ever
+#+keywords: org mode, tramp, dired, emacs, gnu
+#+options: html-sytle:nil html-scripts:nil html-preamble:nil html-postamble:nil author:nil toc:nil validate:nil
+* Who Am I
+
+I'm a normal person creating a website to show people what I'm interesting in.\\
+
+** Which software do I use
+
+1. Gnu Emacs being the ultimate computing/hacking environment.\\
+   - [[https://orgmode.org/][org mode]]
+   - [[https://www.orgroam.com/][org roam]]
+   - [[http://company-mode.github.io/][company]](COMPletion ANYwhere)
+   - [[https://magit.vc/][Magit]](A Git Porcelain inside Emacs)
+   - emacs(the C source code of emacs which contain all the goodies)
+2. Gnu/Linux Operating System.\\
+3. firefox(light, fast and secure).\\
+4. i3WM(window manager).\\
+   This is just the major software that I use in daily basis.\\
+   There are alot more but I'll keep it short
+
+** Why I use Gnu Emacs
+
+It's been around since ever, and the people who change the world of computing was and still using it\\
+and I'm using it to look cool.
+
+** Images
+[[https://upload.wikimedia.org/wikipedia/commons/5/59/Emacs_512.png]]
+
+** Future plans
++ Starting a blog post
++ Backup all my config files in github
++ Extending this page
++ Buying a domain name 
+** Tables
+
+| Table heading 1 | Table heading 2 |
+|-----------------+-----------------|
+| Table content 1 | Table content 2 |
+| Table content 1 | Table content 2 |
