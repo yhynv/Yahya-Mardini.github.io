@@ -3,6 +3,7 @@
 #+author: Yahya Mardini
 #+keywords: org mode, tramp, dired, emacs, gnu
 #+options: html-sytle:nil html-scripts:nil html-preamble:nil html-postamble:nil author:nil toc:nil validate:nil
+
 #+begin_center
 /*Yahya Mardini*/
 #+end_center
@@ -20,7 +21,7 @@ Whether you are seeking comprehensive tutorials, insightful tips or simply wish 
 *On this page*
 + [[*Maximizing Efficiency: The Advantages of Integrating Linux and Emacs into Your Workflow][Maximizing Efficiency]]
 + [[*Emacs: The Ultimate Swiss Army Knife of Text Editors][Emacs]]
-+ [[*The Expansive Ecosystem of Linux: Embracing Diversity and Collaboration][Linux]]
++ [[*The Expansive Ecosystem of Linux: Embracing Diversity and Collaboration][Gnu/Linux]]
 
 * Maximizing Efficiency: The Advantages of Integrating Linux and Emacs into Your Workflow
 
@@ -35,8 +36,11 @@ Whether you are seeking comprehensive tutorials, insightful tips or simply wish 
 + Introducing Linux and Emacs into your workflow represents a strategic investment in your professional growth, providing you with unparalleled flexibility, agility and control over your digital ecosystem.
 
 * Emacs: The Ultimate Swiss Army Knife of Text Editors
-** Images
-[[https://upload.wikimedia.org/wikipedia/commons/5/59/Emacs_512.png]]
+
+#+attr_html: :width 200px
+#+attr_latex: :width 100px
+[[file:Daco_658931.png]]
+
 ** Taming the Beast: Mastering Emacs with Customization and Automation
 
 Emacs is known for its infinite customization options, which can make it overwhelming for new users. However, by mastering Emacs' customization and automation features, you can turn this beast of an editor into a productivity powerhouse. With some advanced knowledge of Elisp, Emacs' built-in scripting language, you can create custom functions and keybindings to streamline your workflow and make Emacs work exactly how you want it to.
@@ -58,7 +62,9 @@ Debugging code can be a tedious and frustrating process, but with Emacs' built-i
 Finally, mastering Emacs is not just about learning advanced techniques and features. It's also about developing a mindset and approach to editing that maximizes productivity and creativity. By understanding the principles of modal editing, using macros effectively, and adopting a minimalist workflow, you can unlock the full potential of Emacs and take your editing skills to the next level.
 
 * The Expansive Ecosystem of Linux: Embracing Diversity and Collaboration
-https://wiki.installgentoo.com/images/thumb/8/86/Gnuandtux.jpg/300px-Gnuandtux.jpg
+#+attr_html: :width 200px
+[[file:clipart3266663.png]]
+
 Linux is not a singular entity, but rather an extensive ecosystem that permeates various aspects of the computing world. And to truly acknowledge its breadth and depth, it is more fitting to refer to it as GNU/Linux, recognizing the crucial role played by the GNU operating system components in powering the Linux kernel and enabling the rich tapestry of functionality that we associate with modern computing.
 
 This framing underscores the complexity and diversity of the Linux ecosystem, and highlights the important contributions made by both the Linux kernel and the GNU tools and utilities that have helped shape it into the powerful platform it is today.
@@ -96,8 +102,28 @@ This framing underscores the complexity and diversity of the Linux ecosystem, an
     + CentOS: stable and secure server-focused distribution with long-term support options
     + Arch Linux: minimalist distribution with a rolling-release model and extensive customization options
 
-* Which software do I use
+* Which distrubution of Gnu/Linux do I use
+Ubuntu has many advantages over others distros especially of developers how just want their distrbution of Linux to work.
+Some adavatages inculding wide range of software availability and sometime ubunut-specific software, its adoption of snap package manager makes it convenient for those how want to sandbox their system, stability, strong comunity support compatibility
+** Some advantages including
++  User-Friendly: Ubuntu is known for being one of the most user-friendly Linux distributions, making it a great option for those who are new to Linux.
 
++  Wide Range of Software: Ubuntu has a large repository of software packages, making it easy to find and install the applications you need. Additionally, many popular software vendors provide Ubuntu-specific software packages.
+
++ Stability: Ubuntu releases are scheduled every six months, with long-term support (LTS) versions released every two years. These LTS releases are supported for five years, providing a stable platform for users who don't want to constantly upgrade their operating system.
+
++  Strong Community Support: Ubuntu has a large and active community of users and developers who contribute to the development of the operating system, provide support, and create resources such as documentation, forums, and tutorials.
+
++ Security: Ubuntu has a reputation for being a secure operating system, with regular security updates and a focus on privacy and data protection.
+
++  Compatibility: Because of its popularity, many hardware manufacturers and software vendors offer official support for Ubuntu, making it easier to find compatible hardware and software.
+
++  Customization: Ubuntu allows for a high degree of customization, from choosing your desktop environment to installing custom themes and icons.
+
+
+* Why I use WM(Window Manager) or DE(Desktop Environemt)
+
+The lightweight nature of the WMs and their customizability manke them special for hackers who hack their system by having complete control over their system 
 1. Gnu Emacs being the ultimate computing/hacking environment.\\
    - [[https://orgmode.org/][org mode]]
    - [[https://www.orgroam.com/][org roam]]
