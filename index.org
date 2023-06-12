@@ -150,8 +150,8 @@ and I'm using Emacs to look cool.
 + Buying a domain name
    
 ** Tables
-
-| Table heading 1 | Table heading 2 |
-|-----------------+-----------------|
-| Table content 1 | Table content 2 |
-| Table content 1 | Table content 2 |
+| a   | new      | table   |
+|-----+----------+---------|
+| abc | old      | content |
+| hi  | everyone | 👋🏽      |
+|     |          |         |

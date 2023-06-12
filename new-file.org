@@ -1,0 +1,1 @@
+* hi everyone. This is a test of emacs magit porceline!
